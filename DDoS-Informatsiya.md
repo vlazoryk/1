@@ -1,5 +1,10 @@
 ## Телеграм канали де є багато інфи і координація зусиль
 
-[**DDoS по країні СЕПАРІВ**](https://t.me/+97Y45he5lOI2ZTky)
+* [**DDoS по країні СЕПАРІВ**](https://t.me/+97Y45he5lOI2ZTky) 
+* [**IT ARMY of Ukraine**](https://t.me/itarmyofukraine2022)
 
-[**IT ARMY of Ukraine**](https://t.me/itarmyofukraine2022)
+## Інструкції і Туторіали 
+
+Дуже рекомендуємо почитати перед тим як щось робити
+
+[Що таке DDoS (для чайників і експертів), як все встановити, підключити і налаштувати](https://tarahtino.notion.site/tarahtino/DDoS-1505b74f6f8443768dc47e0f4d2ee8b2)
